@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "The Humans",
+		"leaderName": "Miku",
+		"adjective": ["Human"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The humans are the smartest of the kinds, innovations are ingrained into their species 'Homo Sapiens'.",
+		"startIntroPart2": "Lead this species to victory!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Many like you have persisted, many like you have fallen, Prepare for war!",
+		"attacked": "Not so wise, huh?",
+		"defeated": "How have you, and inferior species take victory over us!?",
+		"introduction": "Morning, may our species live in piece.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -27,12 +27,162 @@
 		"afterPeace": "Very well, all that fighting was getting boring anyway.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [50, 70, 168],
+		"innerColor": [182, 183, 191],
+		"uniqueName": "Homo Sapiens!",
+		"cities": ["Mikutag","Wepirag","Katigag","Shakahag","Kalenag","Wapituyag","Takiyag","Kemusag","Sakitunag",
+		"Gugag","Yakekag","Mikuyanag","Fekutayag","Shekumahag","Kakahag","Wepinugarag","Worupiruwagakag","Gagag",
+		"Kutawapag","Nagerag","Yakuwerag","Fegirag","Girag","Naguritag","Sakawukatigag",]
 	}
 ]
+[
+	{
+		"name": "The Elves",
+		"leaderName": "Mana Hamara",
+		"adjective": ["Elven"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "The elves are the most brilliant of the kinds, culture is strung in-between those pointy ears!",
+		"startIntroPart2": "Lead this species to victory!",
+
+		"declaringWar": "War is the last thing one should go to, but you are such a special case.",
+		"attacked": "But why? Are you a warmongerer?",
+		"defeated": "Why does violence always win?",
+		"introduction": "May peace be woodwinded through us with mana!",
+
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"afterPeace": "A yes, strife is past us.",
+		"tradeRequest": "Our banana-leafs wrap our gifts for you.",
+
+		"outerColor": [131, 148, 106],
+		"innerColor": [232, 242, 218],
+		"uniqueName": "Manaa",
+		"cities": ["Tahaa","Manahamanaa","Shamaana","Latanahaa","Nahaamana","Natarahaa","Hamahama","Hamahaata","Hamarana",
+			"Tanarahamana","Lanama","Mahaamahaa","Nahamataha","Hataramana","Karamanaha","Manahamanahaa","Haamanahaamana",
+			"Manaalahama","Tanalarana","Manaaranama","Hataarahataara","Kaarashaamanaa",]
+	}
+]
+[
+	{
+		"name": "The Dwarves",
+		"leaderName": "Frendrek den Kuger",
+		"adjective": ["Dwarven"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Scientific",
+
+		"startIntroPart1": "The dwarves are the hardest-working of the kinds, The kling-klang of mining is lullabies to there ears!",
+		"startIntroPart2": "Lead this species to victory!",
+
+		"declaringWar": "Our mined-iron must be used to slit your throats!",
+		"attacked": "You are brave to attack the Dwarves?",
+		"defeated": "You are greater, In presence and in stature.",
+		"introduction": "We are the Dwarves, may we forge an unrustable friendship!",
+
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"afterPeace": "Let us move on from war",
+		"tradeRequest": "May iron be fused with iron to create greatness",
+
+		"outerColor": [163, 34, 11],
+		"innerColor": [94, 53, 8],
+		"uniqueName": "Forging Steel",
+		"uniques": "",
+		"cities": ["Dwarfbug","Schennerbug","Hachenshaft","Gundterbug","Meishaft","Kandlerbug","Furgerbug","Ebscherbug","Haagenbug",
+			"Aschekbug","Krinneshaft","Sebchefrugshaft","Nebbug","Refferbug","Laderbug","Kinderganagshaft","Brenderbug",
+			"Ruttebug","Terrunershaft","Hintshaft","Koperebug","Ziegshaft",]
+	}
+]
+[
+	{
+		"name": "The Frogs",
+		"leaderName": "Rhurhurh",
+		"adjective": ["Froggish"]
+		"startBias": ["Swamp"],
+		"preferredVictoryType": "Religious",
+
+		"startIntroPart1": "The frogs are most religious of the kinds, springing and swimming with their green flippers!",
+		"startIntroPart2": "Lead this species to victory!",
+
+		"declaringWar": "Your existence must be slimed!",
+		"attacked": "In both land and water, you will regret this!",
+		"defeated": "May our peoples not go extinct.",
+		"introduction": "The labourers of both land and sea, we welcome you.",
+
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"afterPeace": "Peace is a gift of nature.",
+		"tradeRequest": "Croaaak, gifts of nature unto you!",
+
+		"outerColor": [8, 94, 32],
+		"innerColor": [28, 54, 41],
+		"uniqueName": "Croaks to Prayer.",
+		"uniques"; "",
+		"cities": ["Grurhughr","Krugrh","Urkgrhughrugh","Kgruhurghru","Kurhgurghuru","Ghrughruhukgh",
+			"Ghrhurhkgrhu","Kugrhuhgrkhuru","Ghrukuru","Gkrhurukuru","Ghrukughr","Kughurhg","Gurkghr",
+			"Rhukhgruhur","Kghughrukgh","Rgughurukghru",]
+	}
+]
+[
+	{
+		"name": "The Orks",
+		"leaderName": "Kukku",
+		"adjective": ["Orkish"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "The orcs are the most powerful of all the kinds, the nash of teeth is the sound of Orkish victory!",
+		"startIntroPart2": "Lead this species to victory!",
+
+		"declaringWar": "Klash gash! You are ours!",
+		"attacked": "You have attacked us? Klash gash!",
+		"defeated": "We shall dwell for the purpose of your destruction. War will never be stopped until its by us!",
+		"introduction": "Watch out, earthling.",
+
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+
+		"afterPeace": "This is a means of a break not an end.",
+		"tradeRequest": "Normally we would seize your goods, but we feel awfully kind today.",
+
+		"outerColor": [6, 28, 5],
+		"innerColor": [209, 27, 21],
+		"uniqueName": "Klash gash!",
+		"uniques": [""],
+		"cities": ["Kukkukan","Pakankuruk","Takaruk","Zakanpuk","Zukurruk","Kukkukuk","Tapakuk","Tappakkukk","Kuzakaran",
+			"Nukaratuk","Pukanapan","Kutapuk","Rukupukan","Zupuk","Tapuk","Nuparakuk","Pakanakukan","Kanupan","Rupazakan",
+			"Pazarupuk","Nukatapakuruk",]
+	}
+]			
